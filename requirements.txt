@@ -1,0 +1,3 @@
+# USB monitor + outage detection. Install with: pip install -r requirements.txt
+pyserial>=3.5
+minimalmodbus>=2.1,<3
